@@ -1,0 +1,21 @@
+export const WORDS_LIST = [
+  "apple", "grape", "peach", "lemon", "mango", "berry", "melon", "olive", "plumb", "guava",
+  "apron", "baker", "cabin", "daisy", "eagle", "fable", "giant", "habit", "icily", "jolly",
+  "karma", "latch", "magic", "noble", "ocean", "piano", "quilt", "raven", "salad", "table",
+  "ultra", "vivid", "waltz", "xenon", "yacht", "zebra", "angel", "blaze", "crisp", "drown",
+  "eager", "flame", "glove", "hover", "inbox", "jewel", "kneel", "liver", "mirth", "niche",
+  "orbit", "pouch", "quack", "rider", "sling", "truce", "unite", "vapor", "wrist", "youth",
+  "zesty", "adobe", "bison", "cider", "dingo", "ember", "frost", "gloom", "hound", "inlet",
+  "jumpy", "knack", "lodge", "mossy", "nudge", "oxide", "penny", "quash", "risky", "shady",
+  "tango", "udder", "vigor", "wedge", "yodel", "zonal", "amber", "brisk", "clash", "drift",
+  "elbow", "fancy", "gleam", "hatch", "imply", "jolly", "knead", "latch", "mirth", "nifty",
+  "ounce", "prawn", "quilt", "rival", "swoop", "tulip", "unity", "vowel", "waltz", "youth",
+  "zebra", "align", "brave", "charm", "dwell", "eagle", "fable", "gauge", "haste", "inbox",
+  "jolly", "knock", "lunar", "mirth", "noble", "ocean", "piano", "quack", "rider", "sling",
+  "truce", "unite", "vapor", "wrist", "youth", "zesty", "adobe", "bison", "cider", "dingo",
+  "ember", "frost", "gloom", "hound", "inlet", "jumpy", "knack", "lodge", "mossy", "nudge",
+  "oxide", "penny", "quash", "risky", "shady", "tango", "udder", "vigor", "wedge", "yodel",
+  "zonal", "amber", "brisk", "clash", "drift", "elbow", "fancy", "gleam", "hatch", "imply",
+  "jolly", "knead", "latch", "mirth", "nifty", "ounce", "prawn", "quilt", "rival", "swoop",
+  "tulip", "unity", "vowel", "waltz", "youth", "zebra"
+];
