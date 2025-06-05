@@ -2,7 +2,7 @@
   "name": "wordle",
   "private": true,
   "type": "module",
-  "homepage": "https://aniakujawa.github.io/wordle",
+  "homepage": "https://aniakujawa.github.io/wordle/",
   "scripts": {
     "build": "vite build",
     "dev": "vite",
